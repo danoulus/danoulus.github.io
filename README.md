@@ -1,2 +1,8 @@
-# danoulus.github.io
-Danoulus site to his soldier guide
+# To do list
+- [ ] add easter egg (monke)
+- [ ] Add mechanices site
+- [ ] Add Beggars site
+- [ ] Add Css
+- [ ] Add different font
+- [ ] Add meida files
+
